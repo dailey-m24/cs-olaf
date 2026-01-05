@@ -1,0 +1,11 @@
+Mars Dailey
+
+Wits and Wagers operation instructions:
+- Call the provided textfiles on the command 
+line when compiling. 
+- You MUST call trivia_questions.txt first, 
+and trivia_answers.txt second. The order in which
+which they are called does matter.
+- Even if you are operating it alone, it 
+may be useful to play the game as two or 
+more players for testing purposes.
